@@ -1,4 +1,4 @@
-# Classification_SupervisedLearning_Hit_Songs
+# Metis Music Festival
 
 
 #### Question/need:
