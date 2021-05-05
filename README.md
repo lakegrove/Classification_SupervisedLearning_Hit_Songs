@@ -9,7 +9,7 @@ By identifying good song features we can sell this information to producers look
 Metis Music label can then figure out what type of artists to go out and sign depending on which type of music characteristics fit with that artist and target audience they want to pursue to make a successful label. 
 
 #### Data Description:
-* For this I will be using Kaggle data assmebled from the past five decades in combination with a target variable of 0 or 1 if that song for that artist appeared in the weekly top 100 at that time. There are roughly 5,000 to 7,000 songs per decade.  
+* For this I will be using Kaggle data assmebled via the Spotify API from the past five decades in combination with a target variable of 0 or 1 if that song for that artist appeared in the weekly top 100 at that time. There are roughly 5,000 to 7,000 songs per decade.  
 
 * I expect to work with things like spotify's own meaures of Danceability, Energy, Key, Loudness, Speechiness, Acoustiness, Instrumnetalness and others.  
 
