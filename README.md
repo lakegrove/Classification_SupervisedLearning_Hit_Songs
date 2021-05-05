@@ -30,4 +30,4 @@ Seaborn
 
 
 #### MVP Goal:
-* Ideas for a minimum viable product might be groupings of similar artist to create pools from which we can choose.  It also could be a list of songs we think will be hits and look for the largest hits or most hits per artists as a basis for creating a pool to select from.
+* Ideas for a minimum viable product might as simple as comparing, showing or ranking the feature importance for a particular decade and an example song that scores well along those items that is in fact a hit (as well as one that was a "miss")
