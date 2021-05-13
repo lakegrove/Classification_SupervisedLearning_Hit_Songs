@@ -1,4 +1,4 @@
-# Creating Song Rankings to Predict Hit Song
+# Creating Song Rankings to Predict Hit Songs
 Jonathan Wyatt
 
 ## Abstract
