@@ -36,7 +36,7 @@ The official metric for this project ROC AUC for the ranking; however but accura
    - AUC ROC .977
 
 **Holdout** 
-   --Accuracy 0.917
+   - Accuracy 0.917
    - AUC ROC .976
 
 ## Tools
