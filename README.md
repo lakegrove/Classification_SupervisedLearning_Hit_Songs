@@ -38,7 +38,3 @@ Excel
 Matplotlib
 
 Seaborn
-
-
-#### MVP Goal:
-* Ideas for a minimum viable product might as simple as comparing, showing or ranking the feature importance for a particular decade and an example song that scores well along those items that is in fact a hit (as well as one that was a "miss")
