@@ -19,22 +19,6 @@ Ideally, here at Metis Music label we will beat them all to the punch and start 
 
 
 #### Tools:
-Logistics Regression
+Models: Logistics Regression, KNN, Random Forrest, Gradient Boost
 
-KNN
-
-Trees
-
-Gradient Boost
-
-Python
-
-Spotify API
-
-Tableau
-
-Excel
-
-Matplotlib
-
-Seaborn
+Data: Python, Spotify API, Excel, Matplotlib, Seaborn
